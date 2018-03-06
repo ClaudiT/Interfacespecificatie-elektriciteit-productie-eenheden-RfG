@@ -99,3 +99,4 @@ IEC61850 is een standaard die uiteenvalt in vele [delen en substandaarden](https
         * Complex: standaard kent vele pagina's en opties (oplosbaar door een 61850 profiel te maken) etc.
         * XMPP implementatie is nieuw (Nog in draft, 248 pagina's)
     *   Overig en conclusie: Een goede uitleg van samenhang XMPP en IEC61850-8-2 is beschikbaar in een [presentatie van Siemens](http://www.nettedautomation.com/standardization/IEC_TC57/wg17/HMI2015_SmartGridForum_Dawidczak_for_Blog_KHS.pdf). Het is nog een afweging of de complexiteit (zelfs voor ingewijden in de materie) geen blokkade vormt voor toepassing in markt-devices. 
+
